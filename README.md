@@ -19,4 +19,4 @@
 > *“Think big, start small, move fast.”*
 
 ### ⚙️ Tools & Tech I Use
-`C` • `Python` • `HTML` • `Flask` • `Linux` • `Wireshark` • `Git` • `Binance` • `OBS Studio`
+`C` • `Python` • `HTML` • `Flask` • `Linux` • `Wireshark` • `Git` • 
