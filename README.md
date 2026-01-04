@@ -14,7 +14,6 @@
 - 🧪 Wireshark & Network Packet Analysis
 - 🔍 CTF (Capture The Flag) techniques
 - 🌐 Flask Web Development
-- 📈 Basics of Crypto & Investing (Started with Ooki DAO)
 
 ### 💡 I Believe In
 > *“Think big, start small, move fast.”*
