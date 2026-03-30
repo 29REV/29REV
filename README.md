@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Srirevanth A
+## 👋 Hi there, I'm Srirevanth Aramuthakannan
 
 🎓 I'm a Cybersecurity student from Coimbatore, currently pursuing B.E. Computer Science and Engineering (Cybersecurity) at Dr. NGP Institute of Technology.
 
